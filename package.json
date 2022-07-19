@@ -1,0 +1,14 @@
+{
+  "name": "bankapp-nodejs",
+  "version": "1.0.0",
+  "description": "a banking application in node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "supriya.anand",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
